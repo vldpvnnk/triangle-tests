@@ -57,7 +57,7 @@ Google Chrome
 
 ### Установка
 ```
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/vldpvnnk/triangle-tests
 cd triangle-tests
 npm install
 ```
