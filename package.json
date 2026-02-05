@@ -1,0 +1,14 @@
+{
+  "name": "mindlab-test-task",
+  "version": "1.0.0",
+  "description": "Selenium tests for Mindlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js --timeout 30000"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.23.0",
+    "mocha": "^10.0.0",
+    "chai": "^4.0.0"
+  }
+}
